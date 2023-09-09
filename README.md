@@ -14,7 +14,7 @@ This is a simple GraphQL server built using Node.js and Express. It provides bas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/madilkhan002/graphql-tutorial.git
 
 Install the dependencies:
 
